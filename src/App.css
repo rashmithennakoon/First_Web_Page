@@ -1,0 +1,124 @@
+h1{
+  text-align: center;
+  font-size: 160px;
+  color: black;
+  background-color: #ffffff;
+  opacity: 0.6;
+  
+}
+#im{
+  width: 1470px;
+  height: 800px;
+}
+#flo{
+  top: 120%;
+  left: 17%;
+  position: absolute;
+  font-size: 60px;
+}
+.imm1{
+  top: 160%;
+  left: 30%;
+  position: absolute;
+  width: 200px;
+  border-radius: 100%;
+  border: 8px solid black;
+}
+.nm{
+  top: 170%;
+  left: 50%;
+  position: absolute;
+  font-size: 30px;
+}
+#rose{
+  top: 160%;
+  left: 50%;
+  position: absolute;
+  font-size: 30px;
+}
+#dis{
+  top: 30%;
+  left: 5%;
+  right: 50%;
+  text-align: justify;
+  position: absolute;
+  font-weight: bolder;
+}
+#im2{
+  top: 0;
+  left: 31%;
+  position: absolute;
+  width: 1000px;
+}
+#top{
+  left: 20%;
+  position: absolute;
+  font-size: 80px;
+}
+#imm2{
+  top: 200%;
+  left: 30%;
+  position: absolute;
+  width: 200px;
+  border-radius: 100%;
+}
+.nm1{
+  top: 210%;
+  left: 50%;
+  position: absolute;
+  font-size: 30px;
+}
+#tul{
+  top: 200%;
+  left: 50%;
+  position: absolute;
+  font-size: 30px;
+}
+#imm3{
+  top: 240%;
+  left: 30%;
+  position: absolute;
+  width: 200px;
+  border-radius: 100%;
+}
+.nm2{
+  top: 250%;
+  left: 50%;
+  position: absolute;
+  font-size: 30px;
+}
+#su{
+  top: 240%;
+  left: 50%;
+  position: absolute;
+  font-size: 30px;
+}
+#imm4{
+  top: 280%;
+  left: 30%;
+  position: absolute;
+  width: 200px;
+  border-radius: 100%;
+}
+.nm3{
+  top: 290%;
+  left: 50%;
+  position: absolute;
+  font-size: 30px;
+}
+#da{
+  top: 280%;
+  left: 50%;
+  position: absolute;
+  font-size: 30px;
+}
+footer {
+  top:320%;
+  left: 0;
+  right: 0;
+  position: absolute;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
